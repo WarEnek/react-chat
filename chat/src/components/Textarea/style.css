@@ -1,0 +1,11 @@
+.textarea textarea {
+  width: 100%;
+  background: #F2F2F2;
+  border: 1px solid #0D0D0D;
+  font-size: 2rem;
+  resize: none;
+}
+
+.textarea textarea:focus {
+  border-color: #0A0EF0;
+}
